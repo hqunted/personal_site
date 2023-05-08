@@ -62,7 +62,7 @@ export const Header = () => {
                 <span className="text-indigo-600">K</span>ırcı{" "}
               </h1>
 
-              <h1 className="text-sm md:text-4xl font-medium mb-2 text-indigo-300">
+              <h1 className="text-sm md:text-4xl font-medium mb-2 text-indigo-300 motion-safe:animate-fadeIn">
                 A software developer with a Mathematics & Computer Science
                 background who is passionate about AI and the latest JavaScript
                 technologies.
@@ -80,7 +80,7 @@ export const Header = () => {
             <div className="md:flex md:flex-wrap md:-mx-4 mt-6 md:mt-12">
               <div className="md:w-1/3 md:px-4 xl:px-6 mt-8 md:mt-0 text-center">
                 <span className="w-20 border-t-2 border-solid border-indigo-200 inline-block mb-3"></span>
-                <h5 className="text-xl font-medium uppercase mb-4">
+                <h5 className="text-xl font-medium uppercase mb-4 text-indigo-600">
                   Determined
                 </h5>
                 <p className="text-gray-300">
@@ -90,7 +90,7 @@ export const Header = () => {
 
               <div className="md:w-1/3 md:px-4 xl:px-6 mt-8 md:mt-0 text-center">
                 <span className="w-20 border-t-2 border-solid border-indigo-200 inline-block mb-3"></span>
-                <h5 className="text-xl font-medium uppercase mb-4">
+                <h5 className="text-xl font-medium uppercase mb-4 text-indigo-500">
                   Innovator
                 </h5>
                 <p className="text-gray-300">
@@ -101,7 +101,7 @@ export const Header = () => {
 
               <div className="md:w-1/3 md:px-4 xl:px-6 mt-8 md:mt-0 text-center">
                 <span className="w-20 border-t-2 border-solid border-indigo-200 inline-block mb-3"></span>
-                <h5 className="text-xl font-medium uppercase mb-4">
+                <h5 className="text-xl font-medium uppercase mb-4 text-indigo-600">
                   Open-minded
                 </h5>
                 <p className="text-gray-300">
