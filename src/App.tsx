@@ -1,11 +1,8 @@
-import React from "react";
+import { useState } from "react";
+import { Header } from "./Header";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">Learn React</header>
-    </div>
-  );
-}
+const App = () => {
+  return <div><Header/></div>;
+};
 
 export default App;
