@@ -1,46 +1,126 @@
-# Getting Started with Create React App
+# Personal Site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a name="readme-top"></a>
 
-## Available Scripts
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-In the project directory, you can run:
 
-### `yarn start`
+  <h3 align="center">Personal Site</h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <p align="center">
+    My Personal Site about myself 
+   <br />
+     <a href="#">View Demo</a>
+     <br />
+  </p>
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-### `yarn test`
+<!-- ABOUT THE PROJECT -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `yarn build`
+### Built With
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [![TypeScript][typescript.js]][typescript-url]
+- [![React][react.js]][react-url]
+- [![Node.js][node.js]][node-url]
+- [![Javascript][javascript]][javascript-url]
+- [![TailwindCSS][tailwindcss]][tailwindcss-url]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+_For more examples, please refer to the [Documentation](https://example.com)_
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Learn More
+<!-- CONTRIBUTING -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTACT -->
+
+## Contact
+
+Berke Kaan Kırcı - berkekirci@gmail.com
+
+Project Link: [https://github.com/hqunted/Object_Identifier](https://github.com/hqunted/Object_Identifier)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+
+## Acknowledgments
+
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Img Shields](https://shields.io)
+- [GitHub Pages](https://pages.github.com)
+- [Google Fonts](https://fonts.google.com/)
+- [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/berke-kaan-k%C4%B1rc%C4%B1/
+[product-screenshot]: images/screenshot.png
+[typescript.js]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
+[typescript-url]: https://www.typescriptlang.org/
+[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
+[node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[node-url]: https://nodejs.org/en
+[javascript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[javascript-url]: https://www.javascript.com/
+[tailwindcss]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[tailwindcss-url]: https://tailwindcss.com/
