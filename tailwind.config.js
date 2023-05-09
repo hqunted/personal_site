@@ -14,6 +14,9 @@ module.exports = {
       variants: {
         animation: ["motion-safe"],
       },
+      fonts: {
+        bebasneue: "Bebas Neue",
+      },
     },
   },
   plugins: [],
